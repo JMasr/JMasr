@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Visia Project](https://gtm.uvigo.es/en/research/grants-supporting-research/)
 
-- 🌱 I’m currently learning **TDD & XP (TDD and XP (what an amazing discovery!)**
+- 🌱 I’m currently learning **TDD & XP (what an amazing discovery!)**
 
 - 🧭 Last finished work [COPERIA Project](https://coperia.es/)
 
