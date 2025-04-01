@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm José Manuel.</h1>
 <h3 align="center">An engineer passionate about research and language sciences.</h3>
 
-- 🔭 I’m currently working on [Visia Project](https://gtm.uvigo.es/en/research/grants-supporting-research/)
+- 🔭 I’m currently working on [Visia Project](https://gtm.uvigo.es/en/research/grants-supporting-research/).
 
-- 🌱 I’m currently learning **TDD & XP (what an amazing discovery!)**
+- 🌱 I’m currently learning about **AI Agents** using [LangChain](https://www.langchain.com/) framework.
 
-- 🧭 Last finished work [COPERIA Project](https://coperia.es/)
+- 🧭 Last finished work [COPERIA Project](https://coperia.es/).
 
-- 🤝 I’m looking for help with [Digital Medicine Society (DiMe)](https://dimesociety.org/)
+- 🤝 I’m looking for help with [Digital Medicine Society (DiMe)](https://dimesociety.org/).
 
-- 👨‍💻 All of my projects are available at [https://orcid.org/0000-0003-4700-6592](https://orcid.org/0000-0003-4700-6592)
+- 👨‍💻 All of my projects are available at [https://orcid.org/0000-0003-4700-6592](https://orcid.org/0000-0003-4700-6592).
 
-- 💬 Ask me about **Speech Technology, Biomarkers, and Kung-Fu Panda 🐼**
+- 💬 Ask me about **Speech Technology, Biomarkers, and Kung-Fu Panda 🐼**.
 
-- 📫 How to reach me **jmramirez@gts.uvigo.es**
+- 📫 How to reach me **jmramirez@gts.uvigo.es**.
 
-- 📄 Know about my experiences on my [CV](https://github.com/JMasr/JMasr/blob/main/CV_2025-Jose_M_Ramirez.pdf)
+- 📄 Know about my experiences on my [CV](https://github.com/JMasr/JMasr/blob/main/CV_2025-Jose_M_Ramirez.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
