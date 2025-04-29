@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jmramirez@gts.uvigo.es**.
 
-- 📄 Know about my experiences on my [CV](https://github.com/JMasr/JMasr/blob/main/CV_2025-Jose_M_Ramirez.pdf).
+- 📄 Know about my experiences on my [CV-ENG](https://github.com/JMasr/JMasr/blob/main/CV_ENG_2025-Jose_M_Ramirez.pdf) or [CV-ESP](https://github.com/JMasr/JMasr/blob/main/CV_2025-Jose_M_Ramirez.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
